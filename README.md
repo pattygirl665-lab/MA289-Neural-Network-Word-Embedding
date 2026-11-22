@@ -1,4 +1,4 @@
-# MA289 Word Embeddings Competition:
+# MA289 Word Embeddings Competition: Repo README
 This repository contains the complete experimentation workflow and final model implementation for the MA289 Word Embedding Competition. Our optimized baseline, Joint Opt B, achieved our top competitive performance on the leaderboard:
 
 Private Score (MSE): 0.06968
