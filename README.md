@@ -1,5 +1,5 @@
 # MA289 Word Embeddings Competition:
-This repository contains the complete experimentation workflow and final model implementation for the MA289 Word Embedding Competition. Our optimized baseline, Joint Opt B, achieved our top competitive performance on the leaderboard:
+This repository contains the complete experimentation workflow and final model implementation for the MA289 Word Embedding Competition. The beginning of the collab notebook include main ideas of how to do neural networking. Following the main ideas provides by our instructor, the following was experiments in different directions in attempt to optimize our baseline model. Our optimized baseline, Joint Opt B, achieved our top competitive performance on the leaderboard:
 
 Private Score (MSE): 0.06968
 
